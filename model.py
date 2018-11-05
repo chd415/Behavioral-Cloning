@@ -116,4 +116,4 @@ model.fit_generator(
     nb_val_samples=len(validation_samples),
     nb_epoch=5)
 
-model.save("model3.h5")
+model.save("model2.h5")
